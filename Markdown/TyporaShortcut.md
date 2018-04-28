@@ -59,6 +59,7 @@
 **emphasis**`cmd+I` `其实就是斜体`
 
 **strike**`删除线 ctrl + shift + ~`
+
 **Hyperlink** `cmd+k` `前面是字面量,后者是隐藏量`
 
 **image**`cmd+alt+I` `插入图片` `试了一下,显式名称貌似没有作用,没有显示出来`
