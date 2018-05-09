@@ -1,3 +1,6 @@
+raw思路:做个试验,不妨划关键词.用关键词,然后搜索,看能不能做出题目,以及算出时间.如果这样是可行的.那就不妨带多种颜色的笔.以后做这种题,直接,先看题目,找关键词,然后人肉检索.
+
+
 关键词
 
 36. 
@@ -17,6 +20,41 @@ over the world 无./原文词语,throughout the world
 economic growth 唯一,成功
 
 world cleaner    唯一,成功
+
+39.
+
+UN 唯一,成功
+
+relation 无,原文两个relationship,且定位失败
+
+environmental protection and economic growth 无,定位失败 //倘若人肉,基本会成功.人肉有个基础修正
+--->environmental protection and economic 唯一,成功
+
+40.
+
+development agencies 唯一,成功
+
+trackle environment issues 无.
+--->trackle 无 //动词
+--->environment issues 无
+--->issues 三处,其中1st定位成功. //不能用这个检索,候选项目有点多. environment更不能
+
+economic progress 唯一,失败.//用这个,会导致错误.成为干扰项.
+
+41.
+solid evidence 无.
+--->evidence 唯一,成功. //原文替换词为 hard evidence
+
+friendliness 无.
+
+42.
+ecosystem
+
+long run / long term想到的可能替换词,二级keyword可以想可能替换词.
+
+
+
+
 
 随感
 
