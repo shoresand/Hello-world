@@ -62,7 +62,20 @@ long run 无. // long term想到的可能替换词,二级keyword可以想可能�
 politician 唯一,成功
 
 cautious 无.
---->原文中是它
+--->原文中是词语变为 caution 唯一，成功
+
+44.
+poor countries/nations 无
+--->poor 六处，最后一处确定
+
+rich nations 唯一，成功
+//bear 承受 ，带有被动的含义，所以主语/真正的一级keyword在后面？ 这是动词在题干中的作用。
+
+45.
+一级keyword ：study 两处，结合修饰词，成功。
+
+一级keyword 修饰词：recent
+
 
 
 
