@@ -48,9 +48,21 @@ solid evidence 无.
 friendliness 无.
 
 42.
-ecosystem
+ecosystem 五个结果,分属三个段落,比重分别是2:1:2.
+--->结合一级keyword的修饰词,sustainable,manage可以唯一确定. 
+//所以当一级keyword出现多个时,留意其周围标志词. 
+//也可以试着用特征副词,或特征形容词做搜索.不过这个一般都是会有变形的.有可能错过.
 
-long run / long term想到的可能替换词,二级keyword可以想可能替换词.
+long run 无. // long term想到的可能替换词,二级keyword可以想可能替换词.
+--->long term 唯一,失败. //二级keyword的可信度及低
+
+
+43.
+这一题采用 一级keyword 和 它的修饰词做关键词 //动词貌似一般不作keyword
+politician 唯一,成功
+
+cautious 无.
+--->原文中是它
 
 
 
